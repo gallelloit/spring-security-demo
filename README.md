@@ -1,5 +1,5 @@
 # spring-security-samples
-Simple Spring MVC Web App for Spring Security trainning pupposes.
+Simple Spring MVC Web App for Spring Security trainning purposes.
 
 ## Configuration
 
